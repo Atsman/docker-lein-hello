@@ -1,0 +1,6 @@
+from: lein-ring
+name: lein-hello
+expose:
+  - 3000:3000
+tasks:
+  run: lein ring server 
