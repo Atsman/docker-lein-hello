@@ -1,6 +1,6 @@
 # docker-lein-hello
 
-FIXME
+Simple example of how to run leiningen project in docker.
 
 ## Prerequisites
 
